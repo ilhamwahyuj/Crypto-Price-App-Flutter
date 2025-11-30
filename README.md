@@ -32,7 +32,6 @@ https://api.coinlore.net/api/tickers/
 ✅ Tombol refresh untuk update data  
 ✅ Parsing JSON ke dalam List  
 ✅ UI sederhana & responsif  
-✅ Tampilan mirip mockup tugas  
 
 ---
 
@@ -77,7 +76,6 @@ Copy code
   flutter pub get
 - Jalankan aplikasi
   flutter run
-
 
 
 ## 📷 Tampilan Aplikasi menampilkan daftar cryptocurrency lengkap dengan:
